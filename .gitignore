@@ -3,6 +3,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-./package-lock.json
+package-lock.json
+report.json
+report.html
+test-results.json
 ```
 
